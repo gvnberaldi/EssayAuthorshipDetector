@@ -68,23 +68,7 @@ Two models were used in this project:
 - Early stopping was employed to prevent overfitting.
 - Accuracy and loss metrics were logged to monitor performance.
 
-![Training Metrics](images/training_metrics.png)
-
 ## Results
-
-### Attentioned CNN-BiLSTM Evaluation
-- **ROC Curve:**
-  ![ROC Curve CNN-BiLSTM](images/roc_curve_cnn_bilstm.png)
-
-- **Precision-Recall Curve:**
-  ![PR Curve CNN-BiLSTM](images/pr_curve_cnn_bilstm.png)
-
-### TF-IDF Classifier Evaluation
-- **ROC Curve:**
-  ![ROC Curve TF-IDF](images/roc_curve_tfidf.png)
-
-- **Precision-Recall Curve:**
-  ![PR Curve TF-IDF](images/pr_curve_tfidf.png)
 
 ### Final Ensemble Model Evaluation
 - **ROC Curve:**
